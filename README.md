@@ -601,7 +601,7 @@ See [LICENSE](LICENSE) for the full text.
 
 | Name | Role | Contact |
 |---|---|---|
-| **Kowshika Selvakumar** | Lead Analyst & Developer | [GitHub](https://github.com/your-username) |
+| **Kowshika S** | Lead Analyst & Developer | [GitHub](https://github.com/kowshika555) |
 
 Built as part of the **Primetrade.ai Data Science Intern — Round 0 Assignment**.
 
@@ -621,12 +621,9 @@ Built as part of the **Primetrade.ai Data Science Intern — Round 0 Assignment*
 
 For questions about this project:
 
-- 📧 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
-
-For questions about the internship assignment:
-- 📧 **Primetrade.ai:** sonika@primetrade.ai
+- 📧 **Email:** kowshika223@gmail.com
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kowshika-selvakumar)
+- 🐙 **GitHub:** [Github-portfolio](https://kowshika555.github.io/Work_Portfolio/)
 
 ---
 
@@ -648,4 +645,4 @@ For questions about the internship assignment:
 
 *Primetrade.ai Data Science Intern Assignment — Round 0*
 
-</div>"# primetrade-analysis" 
+</div>"
